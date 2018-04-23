@@ -1,0 +1,10 @@
+/Users/magalidrumare/Projects/First/FIRST/bin/Debug/netcoreapp2.0/FIRST.deps.json
+/Users/magalidrumare/Projects/First/FIRST/bin/Debug/netcoreapp2.0/FIRST.runtimeconfig.json
+/Users/magalidrumare/Projects/First/FIRST/bin/Debug/netcoreapp2.0/FIRST.runtimeconfig.dev.json
+/Users/magalidrumare/Projects/First/FIRST/bin/Debug/netcoreapp2.0/FIRST.dll
+/Users/magalidrumare/Projects/First/FIRST/bin/Debug/netcoreapp2.0/FIRST.pdb
+/Users/magalidrumare/Projects/First/FIRST/obj/Debug/netcoreapp2.0/FIRST.csproj.CoreCompileInputs.cache
+/Users/magalidrumare/Projects/First/FIRST/obj/Debug/netcoreapp2.0/FIRST.AssemblyInfoInputs.cache
+/Users/magalidrumare/Projects/First/FIRST/obj/Debug/netcoreapp2.0/FIRST.AssemblyInfo.cs
+/Users/magalidrumare/Projects/First/FIRST/obj/Debug/netcoreapp2.0/FIRST.dll
+/Users/magalidrumare/Projects/First/FIRST/obj/Debug/netcoreapp2.0/FIRST.pdb
